@@ -1,0 +1,4 @@
+#Wed Feb 27 20:33:38 EST 2019
+base.0=C\:\\Users\\Brett\\Desktop\\Lab5\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
